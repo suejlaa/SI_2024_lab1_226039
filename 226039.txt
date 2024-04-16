@@ -1,0 +1,26 @@
+1. Го инсталирав Git и креаирав профил на Github со име suejlaa.
+2. На https://github.com/settings/repositories го променив името на главната гранка од main во master.
+3. Го креирав репозиториумот со име SI_2024_lab1_226039.
+4. Командите што ги користив: -mkdir SI_2024_lab1_226039
+			      -cd SI_2024_lab1_226039
+			      -git init
+5. git remote add origin https://github.com/suejlaa/SI_2024_lab1_226039.git
+6. git add README.md
+   git commit -m "Initial commit"
+7. git add SILab1Main.java SILab1_1.java SILab1_2.java
+   git commit -m "Add starter code"
+8. git push origin master
+9. git branch bug1
+   git branch bug2
+10.git checkout bug1
+11.git commit -m "Fix wrong condition in makeBigStringFrom"
+12.git checkout bug2
+13.git commit -m "Fix wrong condition in makeBigStringFrom"
+14.git checkout bug1
+15.git commit -m "Call method filterOddLengthStrings in main class"
+16.git checkout bug2
+17.git commit -m "Call method makeBigStringFrom in main class"
+18.git push origin --all
+19.git checkout master
+20.git merge bug1
+21.git checkout bug2

@@ -1,0 +1,30 @@
+
+commit a792ffb365e31bffb5860532ea353d5319e52fc9 (HEAD -> master, origin/master)
+Author: suejlaa <suejlaa@users.noreply.github.com>
+Date:   Sun Apr 14 17:57:07 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit 0a7f29a8acefacbeceece0e6e4a6f80eb65e4aaf
+Author: suejlaa <suejlaa@users.noreply.github.com>
+Date:   Sun Apr 14 17:49:07 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 9d1b7e3018cf8eee067c33ccac62d0b482b15848
+Author: suejlaa <suejlaa@users.noreply.github.com>
+Date:   Sun Apr 14 17:39:10 2024 +0200
+
+    Add starter code
+
+commit fce01c2c5a51d8d98d440a1c7518dc23c547b7f9
+Author: suejlaa <167131633+suejlaa@users.noreply.github.com>
+Date:   Sun Apr 14 16:57:07 2024 +0200
+
+    Initial commit
+
+commit ab119b8f57d27026a7b97e2b71bb5b9b06aa316b
+Author: suejlaa <167131633+suejlaa@users.noreply.github.com>
+Date:   Sun Apr 14 15:39:57 2024 +0200
+
+    Create README.md
